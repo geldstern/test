@@ -48,6 +48,7 @@ import javafx.stage.Stage;
  * @see javafx.scene.Cursor
  * @see javafx.scene.input.MouseEvent
  * @see javafx.event.EventHandler
+ * @author Andy
  */
 public class MouseEvents extends Application {
     //create a console for logging mouse events
